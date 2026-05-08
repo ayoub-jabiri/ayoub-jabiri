@@ -3,7 +3,7 @@ Hi there 👋<br>I am Ayoub Jabiri, a Front End Developer
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-jabiri-2552202a6) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-jabiri) 
 
 ## 📁 Portfolio
 https://ayoub-jabiri-portfolio.netlify.app/
